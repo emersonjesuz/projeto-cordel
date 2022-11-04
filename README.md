@@ -1,1 +1,1 @@
-# projeto-cordel    Progeto criado quando cursava o curso em video 
+# projeto-cordel é um conto em forma de dite
